@@ -1,0 +1,6 @@
+{
+  "name": "Document Requirement Bot",
+  "description": "Know what documents you need before applying for government and public services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
